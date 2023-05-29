@@ -1,0 +1,4 @@
+[submodule "externals/foundryvtt/dnd5e"]
+	path = externals/foundryvtt/dnd5e
+	url = git@github.com:foundryvtt/dnd5e.git
+	branch = master
